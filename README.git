@@ -11,4 +11,4 @@ instructions at:
 Users compiling from git will also need compatible versions of Bison, Flex,
 and Perl, as discussed in the install documentation.  These programs are not
 needed when using a tarball, since the files they are needed to build are
-already present in the tarball.  (On Windows, however, you need Perl anyway.)
+already current present in the tarball.  (On Windows, however, you need Perl anyway.)
